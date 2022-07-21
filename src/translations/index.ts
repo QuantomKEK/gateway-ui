@@ -11,7 +11,7 @@ const text = {
     shareAction: 'share',
     accessAction: 'access',
     disclaimer:
-      'The Swarm Gateway is graciously provided by the Swarm Foundation. This service is under development and provided for testing purposes only. For unlimited use of the Swarm network consider running your own node.',
+      'The Sky Labs Gateway is graciously provided by the Swarm Foundation. This service is under development and provided for testing purposes only. For unlimited use of the Swarm network consider running your own node.',
     links: [
       { label: 'Swarm Website', link: 'https://www.ethswarm.org/' },
       { label: 'FAQ', link: 'https://www.ethswarm.org/faqs.html' },
